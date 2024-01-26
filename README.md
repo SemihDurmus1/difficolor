@@ -1,0 +1,2 @@
+# difficolor
+The DiffiColor game
